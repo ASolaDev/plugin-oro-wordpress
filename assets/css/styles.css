@@ -1,0 +1,19 @@
+.gold-price {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    background: #fef9e7;
+    padding: 10px 15px;
+    border-radius: 8px;
+    display: inline-block;
+    color: #333;
+}
+
+.gold-price .change.up {
+    color: green;
+    font-weight: bold;
+}
+
+.gold-price .change.down {
+    color: red;
+    font-weight: bold;
+}
